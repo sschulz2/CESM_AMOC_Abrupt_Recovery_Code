@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for: Abrupt AMOC threshold behavior in a comprehensive climate model warming run"
+type: software
+license: MIT
+authors:
+  - family-names: Schulz
+    given-names: Samuel
+  - family-names: Basinski-Ferris
+    given-names: Rory
+  - family-names: Eisenman
+    given-names: Ian
+  - family-names: Armour
+    given-names: Kyle

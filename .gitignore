@@ -1,0 +1,6 @@
+# Saved figures and local development notes are not part of the release
+output/
+_dev/
+__pycache__/
+.ipynb_checkpoints/
+*.nc

@@ -1,0 +1,18 @@
+# Versions used to run the figure notebooks.
+# setuptools stays below 81 because pop_tools 2023.6.0 imports pkg_resources.
+name: amoc-threshold
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - numpy=2.5
+  - scipy=1.18
+  - xarray=2026.9
+  - dask=2026.8
+  - netcdf4=1.7
+  - matplotlib=3.11
+  - cartopy=0.26
+  - cmocean=3.0
+  - pop-tools=2023.6
+  - setuptools<81
+  - ipykernel
